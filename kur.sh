@@ -1,0 +1,1 @@
+sudo apt-get install wireshark nmap nikto metasploit-framework setoolkit sqlmap 
